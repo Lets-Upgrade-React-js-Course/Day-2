@@ -1,0 +1,24 @@
+body {
+    background-color: lightyellow;
+}
+.btn {
+    font-weight: 600;
+    background: black;
+    border-radius: 5px;
+    border: 2px solid gray;
+    color: yellow;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    width: auto;
+    height: 40px;
+    letter-spacing: 2px;
+    padding: 0.25em 1em;
+    transition: 0.3s;
+    margin-right: 7px;
+}
+
+.btn:hover{
+    background: transparent;
+    color:black;
+    border: 2px solid yellow;
+}
