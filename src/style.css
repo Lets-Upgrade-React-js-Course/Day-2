@@ -21,4 +21,5 @@ body {
     background: transparent;
     color:black;
     border: 2px solid yellow;
+    cursor: pointer;
 }
